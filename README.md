@@ -1,6 +1,8 @@
 # descogini_r
 Gini decomposition by income source Use gini_decomp_source (GiniDecompLY) With (In) R Software
 
+https://www.youtube.com/watch?v=yBiBLPyDEFE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
